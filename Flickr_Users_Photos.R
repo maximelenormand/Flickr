@@ -18,7 +18,7 @@ for(i in 1:n){
     print(c(i,n))
 
     #ID user i
-    user=userid[i]
+    user=userids[i]
 
     #Get the number of pages
     api.user=paste("https://www.flickr.com/services/rest/?method=flickr.people.getPublicPhotos&api_key=", key, "&user_id=", user, "&page=1", sep="")
