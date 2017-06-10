@@ -4,11 +4,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.firefox.webdriver import FirefoxProfile
 import time
 
-
-wd="/home/maxime/"
-
-#Import list user id
-pathtoinput='/home/JohnRambo/ContactID.csv'
+#Import list user usernames
+pathtoinput='/home/JohnRambo/Flickr_Usernames.csv'
 listcontact = open(pathtoinput)             
 next(listcontact)
                               
