@@ -6,7 +6,8 @@ ________________________________________________________________________________
 
 This repository contains two scripts:  
   * Flickr_Users_Photos.R: Get the list of public photos for a list of Flickr users
-  * Flickr_Selenium_Python.py: Automatically send messages to a list of Flickr contact
+  * Flickr_Selenium_Python_Mail.py: Automatically send messages to a list of Flickr contact
+  * Flickr_Selenium_Python_Group.py: Automatically invite Flickr user to join a group
   
 If you want more details about the second script feel free to visit [this post](https://maximelenormand.github.io/Blog/flickr-selenium).
 
