@@ -1,12 +1,12 @@
 # Flickr automation
 
-# Description
+## Description
 
 This repository provides three scripts to automate Flickr queries using the 
 Flickr API and to automatically send messages to a list of Flickr contacts 
 through a contact form from your Flickr account.
  
-# Scripts
+## Scripts
 
   * Flickr_Users_Photos.R: Get the list of public photos for a list of Flickr users
   * Flickr_Selenium_Python_Mail.py: Automatically send messages to a list of Flickr contact
